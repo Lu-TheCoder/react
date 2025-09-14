@@ -6,8 +6,6 @@ const center = {
     lng: 25.608582,
 }
 
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBjcGR3YnV4aWVjaWpseXN3ZmR0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc4NDY2MTYsImV4cCI6MjA3MzQyMjYxNn0.mcdFV8_T1plfW7h45Jsarf1oI87J9qgwbNu1SSSomx8
-
 // Keep libraries as a stable reference to avoid reloading LoadScript
 const GOOGLE_MAP_LIBRARIES = ['places']
 
